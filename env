@@ -1,0 +1,1 @@
+NODE_ENV='mongodb+srv://harini:harini@development.s2b3y.mongodb.net/movie-app?retryWrites=true&w=majority';
