@@ -1,5 +1,0 @@
-# movie-app
-
-ENVIRONMENT VARIABLES  
-
-NODE_ENV= URL
